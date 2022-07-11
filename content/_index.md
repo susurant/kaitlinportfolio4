@@ -1,5 +1,6 @@
 ---
-header_image: "images/cover-image.jpg"
+#header_image: "photo-1560472354-b33ff0c44a43.avif"
+header_image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg"
 header_headline: "Kaitlin Haines"
-header_subheadline: "Hi there, I am a Data Ananlyst, Engineer and aspiring Data Scientist"
+header_subheadline: "Hi there, I am part Data Ananlyst, Data Engineer, and aspiring Data Scientist"
 ---
